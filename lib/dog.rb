@@ -1,9 +1,3 @@
-class Dog
-  def initialize(name, breed)
-    
-  
-end
-
 # class Person
  
 #   def initialize(first_name, last_name)
@@ -22,3 +16,8 @@ end
 #   end
  
 # end
+class Dog
+  def initialize(name, breed)
+    
+  
+end
